@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:10:22-64
+permission#com.ep.sample.provider.PLACEBADGES_PERM
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:11:5-12:18
+	android:name
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:11:17-71
+uses-sdk
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:14:5-16:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:16:9-38
+		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:15:9-35
+		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:18:5-29:19
+	android:label
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:20:9-45
+provider#com.ep.sample.provider.SimpleContentProvider
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:authorities
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:24:13-57
+	android:enabled
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:25:13-35
+	android:exported
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:27:13-90
+	android:name
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\SimpleContentProvider\app\src\main\AndroidManifest.xml:23:13-72
